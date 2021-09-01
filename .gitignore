@@ -1,0 +1,6 @@
+.vscode
+iso
+obj
+*.iso
+*.o
+*.a
